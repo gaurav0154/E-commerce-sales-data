@@ -23,7 +23,7 @@ The dashboard provides a comprehensive view of **sales, profit, orders, and regi
 
 - **Total Sales:** $2.29M  
 - **Total Profit:** $286.4K  
-- **Total Orders:** 5,009  
+- **Total Orders:** 9994 
 - **Total Quantity Sold:** 37,873  
 - **Profit Margin:** 12.47%  
 
@@ -72,7 +72,7 @@ The dashboard provides a comprehensive view of **sales, profit, orders, and regi
 
 ### 6. Customer & Order Insights
 
-- Total unique orders: 5,009  
+- Total unique orders: 9994
 - Customer purchasing patterns  
 - Order volume trends over time  
 
